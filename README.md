@@ -1,0 +1,2 @@
+# feiraDoTecnico
+adivinhação das cores.
